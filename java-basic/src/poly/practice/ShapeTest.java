@@ -22,7 +22,7 @@ public class ShapeTest {
                 new Triangle(9, 1)
                 // Fail
 //                ,new Circle(0),
-//                new Triangle(0, 5),
+//                new Triangle(0, 5)
 //                new Triangle(5, 0)
         );
     }

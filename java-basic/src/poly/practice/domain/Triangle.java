@@ -6,6 +6,8 @@ public class Triangle implements Shape {
     private int height;
 
     public Triangle(int base, int height) {
+//        this.base = base;
+//        this.height = height;
         setBase(base);
         setHeight(height);
     }
